@@ -42,7 +42,7 @@ So this is possible to do with everything below.
  - Start RUN file (.bat for Windows, .sh for Linux)
  - Run Overlay Exe from here: [OVERLAY DOWNLOAD](https://drive.google.com/file/d/12pAp3BdzFdb-wcW3DqcYJ6P-VMDzLBHu/view?usp=sharing)
  
-There are propably milions of bugs and different things, so be prepared.
+There are probably milions of bugs and different things, so be prepared.
 
 ## Admin Panel
 After starting the code go to address showing up in terminal/command prompt. You should see Admin Panel divided in three parts - Teams, Players, Create Match and HUDs. In here you can manage data used in HUDs during match ups.
